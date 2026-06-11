@@ -13,3 +13,9 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/Alexis-Rueda/ms-product-service.git
+[submodule "config-data"]
+	path = config-data
+	url = https://github.com/Alexis-Rueda/microservices-config-data.git
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/Alexis-Rueda/ms-config-server.git
