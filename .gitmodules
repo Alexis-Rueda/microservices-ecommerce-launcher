@@ -19,3 +19,6 @@
 [submodule "config-server"]
 	path = config-server
 	url = https://github.com/Alexis-Rueda/ms-config-server.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/Alexis-Rueda/ms-api-gateway.git
